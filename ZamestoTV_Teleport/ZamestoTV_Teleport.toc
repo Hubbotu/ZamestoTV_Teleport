@@ -1,0 +1,11 @@
+## Interface: 110007
+## Title: ZamestoTV: Teleport M+
+## Title-ruRU: ZamestoTV: Телепорт М+
+## Notes: Convenient menu for navigation through portals
+## Notes-ruRU: Удобное меню навигации по порталам
+## Author: ZamestoTV
+## IconTexture: Interface\AddOns\ZamestoTV_Teleport\Icons\goblin
+## Version: 1.0
+
+teleport.lua
+
