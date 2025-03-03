@@ -68,6 +68,8 @@ local G = {
         { spellID = 159900, mapID = 166 },
         { spellID = 159901, mapID = 168 },
         { spellID = 159902, mapID = 167 },
+        { spellID = 1218105, mapID = 525 },
+        { spellID = 272268, mapID = 247 },			
     },
     KeystoneTeleportButtons = {},
     config = {

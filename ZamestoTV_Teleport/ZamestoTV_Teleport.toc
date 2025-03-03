@@ -1,4 +1,4 @@
-## Interface: 110007
+## Interface: 110100
 ## Title: ZamestoTV: Teleport M+
 ## Title-ruRU: ZamestoTV: Телепорт М+
 ## Notes: Convenient menu for navigation through portals
