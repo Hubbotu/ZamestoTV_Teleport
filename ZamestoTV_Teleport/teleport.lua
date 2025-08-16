@@ -70,7 +70,9 @@ local G = {
         { spellID = 159902, mapID = 167, name = "Upper Blackrock Spire" },
         { spellID = 1216786, mapID = 525, name = "Operation: Floodgate" },
         { spellID = 467553, mapID = 247, name = "The MOTHERLODE!!" },
-        { spellID = 467555, mapID = 247, name = "The MOTHERLODE!!" },
+        { spellID = 367416, mapID = 391, name = "Streets of Wonder" },
+        { spellID = 367416, mapID = 392, name = "So'leah's Gambit" },
+        { spellID = 1237215, mapID = 542, name = "Eco-Dome Al'dani" },	
     },
     KeystoneTeleportButtons = {},
     config = {
